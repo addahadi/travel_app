@@ -1,0 +1,9 @@
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Roboto", sans-serif;
+    background-color: #fefcfb;
+    width: 100%;
+}

@@ -1,0 +1,28 @@
+.explore{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-direction: row;
+    width: 1263px;
+    height: 303px;
+    gap: 2px;
+}
+.title{
+    height: 303px;
+    width: 222px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 72px;
+}
+.read{
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text{
+    width: 400px;
+    height: 80px;
+    color: #666666;
+    line-height: 30px;
+}

@@ -1,0 +1,22 @@
+.about_bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 200px;
+    background-color: #F7F8FC;
+    width: 1263px;
+
+}
+.second_text{
+    width: 391px;
+    height: 110px;
+    line-height: 33px;
+}
+.about_text h1{
+    font-size: 40px;
+    height: 93px;
+    width: 371px;
+}
+.about_text h1 span{
+    color: #FFB60A;
+}
